@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.diboua.jokeGenerator</id>
+  <name>diboua</name>
+  <summary>Generate random jokes about diboua tourist attractions</summary>
+  <description>
+    <p>
+      diboua is an entertaining application that generates random jokes and funny stories about diboua tourist attractions, accommodations, professionals and tourism companies. Perfect for travel enthusiasts and tourism professionals!
+    </p>
+  </description>
+  <url type="homepage">https://www.diboua.com</url>
+  <project_license>GPL-3.0-only</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="1.0" date="2024-01-01">
+      <description>
+        <p>Initial release of diboua Joke Generator</p>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Main application interface</caption>
+    </screenshot>
+  </screenshots>
+</component>
